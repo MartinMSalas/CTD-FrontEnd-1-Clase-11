@@ -11,7 +11,7 @@
 
 main section {
     width: 1200px;
-    height: 1000px;
+    height: 600px;
     display: flex;
     justify-content: space-evenly;
     
@@ -57,7 +57,16 @@ image .base{
 }
 button{
     position: absolute;
-    align-self: right;
+    align-self: ;
+    left: 85px;
+    top: 455px;
+    width: 129px;
+    height: 49px;
+    
+    
+    border-bottom-style: solid;
+    background-color: #00669F;
+    color: #F3F3F3;
 }
 .logo {
     
@@ -91,15 +100,15 @@ article p{
     
 
     width: 300px;
-    height: 336px;
+    height: 227px;
    
 }
 
-/* footer{
-    margin-top: 833px;
+footer{
+    margin-top: 170px;
     margin-bottom: 1px;
     font-family: roboto;
     font-size: 16px;
     padding: 16px 671px 16px 16px;
     background-color: #00669F;
-} */ */
+}
