@@ -1,40 +1,120 @@
-main{
-    padding: 10px;
+* {
+    margin: 0px;
+    box-sizing: border-box;
 }
-main h2{
-    margin-bottom: 40px;
-}
-.box{
-    width: 200px;
-    /* height: 200px; */
-    padding: 20px;
-    font-weight: bold;
-    color: white;
-    font-size: 20px;
-    height: 200px;
+ header p {
+    background-color: #1CD1B0;
+    font-family: roboto;
+    font-size: 15px;
 
-}
+} 
 
-section{
-    display: flex;
-    justify-content: flex-start;
-    background: pink;
+main section {
+    width: 1200px;
     height: 1000px;
-    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    
     align-items: flex-start;
-    flex-wrap: wrap;
 }
-.colorOne {
-    background: #120078;
-}
-.colorTwo {
-    background: purple;
+article p {
+    width: 300px;
+    height: 200px;
+    padding: 16px;
 }
 
-.colorThree {
-    background: green;
+h2 {
+    padding-top: 60px;
+    text-align: center;
+}
+article{
+    margin-top: 100px;
+    position: relative;
+    background-color: lightgrey;
+}
+.logo {
+    border-radius: 50%;
+    position: absolute;
+    left:  90px;
+    top: 126px;
+    
 
 }
-.colorFour {
-    background: yellow;
+ h1 p{
+    padding: 28px 868px 26px 28px;
+    background-color: #00669F;
+    font-size: 40px;
+} 
+
+main {
+    margin-top: 154px;
+    
 }
+image .base{
+    
+   
+    background-color: greenyellow;
+}
+button{
+    position: absolute;
+    align-self: right;
+}
+.logo {
+    
+    position: absolute;
+    left: 90px;
+    top: 128px;
+    
+    
+    border-radius: 50%
+}
+article {
+    font-size: 0;
+    position: absolute;
+    
+    height: 50px;
+}
+h2{
+    font-size: 30px;
+    padding-top: 73px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #F3F3F3;
+    background-color: greenyellow;
+  
+}
+article p{
+    font-family:  Roboto;
+    background-color: #F3F3F3;
+    font-size: 16px;
+    padding: 10px 17px 0px 16px;
+    
+
+    width: 300px;
+    height: 336px;
+   
+}
+.articuloUno {
+    
+    
+    left: 32px;
+    
+}
+.articuloDos {
+    
+    left: 362px;
+    /* top: 293px; */
+}
+.articuloTres {
+  
+    left: 692px;
+    
+} */
+/* footer{
+    margin-top: 833px;
+    margin-bottom: 1px;
+    font-family: roboto;
+    font-size: 16px;
+    padding: 16px 671px 16px 16px;
+    background-color: #00669F;
+} */ */
