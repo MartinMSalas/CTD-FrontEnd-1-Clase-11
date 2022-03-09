@@ -70,7 +70,7 @@ button{
 }
 article {
     font-size: 0;
-    position: absolute;
+    position: flex;
     
     height: 50px;
 }
@@ -80,7 +80,7 @@ h2{
     text-transform: uppercase;
     text-align: center;
     background-color: #F3F3F3;
-    background-color: greenyellow;
+    
   
 }
 article p{
@@ -94,22 +94,7 @@ article p{
     height: 336px;
    
 }
-.articuloUno {
-    
-    
-    left: 32px;
-    
-}
-.articuloDos {
-    
-    left: 362px;
-    /* top: 293px; */
-}
-.articuloTres {
-  
-    left: 692px;
-    
-} */
+
 /* footer{
     margin-top: 833px;
     margin-bottom: 1px;
