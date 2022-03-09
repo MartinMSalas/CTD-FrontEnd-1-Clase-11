@@ -1,0 +1,40 @@
+main{
+    padding: 10px;
+}
+main h2{
+    margin-bottom: 40px;
+}
+.box{
+    width: 200px;
+    /* height: 200px; */
+    padding: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    height: 200px;
+
+}
+
+section{
+    display: flex;
+    justify-content: flex-start;
+    background: pink;
+    height: 1000px;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.colorOne {
+    background: #120078;
+}
+.colorTwo {
+    background: purple;
+}
+
+.colorThree {
+    background: green;
+
+}
+.colorFour {
+    background: yellow;
+}
