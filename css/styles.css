@@ -32,6 +32,12 @@ article{
     position: relative;
     background-color: lightgrey;
 }
+.corazon{
+    position: absolute;
+    left: 21px;
+    top: 16px;
+}
+
 .logo {
     border-radius: 50%;
     position: absolute;
