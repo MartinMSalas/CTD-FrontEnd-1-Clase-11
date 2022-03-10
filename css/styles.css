@@ -50,24 +50,8 @@ main {
     margin-top: 154px;
     
 }
-image .base{
-    
-   
-    background-color: greenyellow;
-}
-button{
-    position: absolute;
-    align-self: ;
-    left: 85px;
-    top: 455px;
-    width: 129px;
-    height: 49px;
-    
-    
-    border-bottom-style: solid;
-    background-color: #00669F;
-    color: #F3F3F3;
-}
+
+
 .logo {
     
     position: absolute;
@@ -102,6 +86,20 @@ article p{
     width: 300px;
     height: 227px;
    
+}
+
+button{
+    position: absolute;
+    
+    left: 85px;
+    top: 455px;
+    width: 129px;
+    height: 49px;
+    
+    
+    border-bottom-style: solid;
+    background-color: #00669F;
+    color: #F3F3F3;
 }
 
 footer{
